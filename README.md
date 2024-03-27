@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/bhanuk2k3/bhanuk2k3/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhanu Kaushik</h1>
 <h3 align="center">A Prefinal year student at Delhi Technological University</h3>
 
